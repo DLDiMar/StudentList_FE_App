@@ -1,0 +1,17 @@
+.input {
+  width: 96%;
+  height: 24px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 12px;
+  border: none;
+  border-bottom: 1px solid lightgrey;
+  padding-left: 4px;
+  padding-bottom: 4px;
+}
+
+.input::-webkit-input-placeholder {
+  font-size: 16px;
+  color: #cacaca;
+  line-height: 3;
+}

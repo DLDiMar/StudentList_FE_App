@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;700&display=swap'); 
+
+.tagSubmit {
+  visibility: hidden;
+}
+.input {
+    width: 92%;
+    height: 24px;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 12px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 2px;
+    border: none;
+    border-bottom: 1px solid black;
+  }
+  
+  .input::-webkit-input-placeholder {
+    font-family: "Raleway", sans-serif;
+    font-size: 12px;
+    color: #cacaca;
+    line-height: 3;
+  }
+  
